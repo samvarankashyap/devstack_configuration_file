@@ -2,7 +2,8 @@
 DEVSTACK localconf
 =========================
 -------
-working dev stack local conf for the single node setup
+Contains working dev stack local conf for the single node setup.
+Tested on Openstack Kilo version
 -------
 
 
